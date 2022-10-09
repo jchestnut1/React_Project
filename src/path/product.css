@@ -1,0 +1,25 @@
+
+
+.product{
+    display: inline-block;
+    width: 30%;
+    align-items: center;
+    height: 400px;
+    border: 1px solid #091396;
+    margin-top: 3rem;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.product img{
+    width: 30%;
+}
+
+.add {
+    margin-top: 2rem;
+    align-items: center;
+    width: 100px;
+}
