@@ -1,7 +1,7 @@
 
 
 .product{
-    display: inline-block;
+    display: block;
     width: 30%;
     align-items: center;
     height: 400px;
@@ -19,7 +19,7 @@
 }
 
 .add {
-    margin-top: 5rem;
+    margin-top: 2rem;
     align-items: center;
     width: 100px;
 }
