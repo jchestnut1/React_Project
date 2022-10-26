@@ -1,0 +1,10 @@
+.qt-picker button{
+    width: 50px;
+    padding: 3px 7px;
+}
+
+.qt-picker label{
+    display: inline-block;
+    margin: 0 5px;
+    font-weight: bold;
+}

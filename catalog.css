@@ -1,0 +1,11 @@
+.catalog {
+    min-height: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    background-color: rgba(103, 251, 51, 0.6)
+}
+
+.catalog .list-container{
+    display: flex;
+}
